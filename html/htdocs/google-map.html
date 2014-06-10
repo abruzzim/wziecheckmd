@@ -55,7 +55,15 @@
   <div class="container">
       <div class="row-fluid">
         <p class="lead">Park 55 Medical Associates</p>
-        <div id="map_canvas"></div>
+        <div id="map_canvas">
+          <iframe width="350" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=110+east+55th+St,+new+york,+ny+10022&aq=&sll=40.07304,-74.724323&sspn=5.287393,8.250732&ie=UTF8&hq=&hnear=110+E+55th+St,+New+York,+10022&ll=40.759963,-73.971118&spn=0.010223,0.016115&t=m&z=14&output=embed">
+          </iframe>
+          <br />
+          <small>
+            <a href="https://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=110+east+55th+St,+new+york,+ny+10022&aq=&sll=40.07304,-74.724323&sspn=5.287393,8.250732&ie=UTF8&hq=&hnear=110+E+55th+St,+New+York,+10022&ll=40.759963,-73.971118&spn=0.010223,0.016115&t=m&z=14" style="color:#0000FF;text-align:left">View Larger Map</a>
+          </small>
+          <br />
+        </div>
         <p>The office is located on the south side of 55th St, between Park Ave and Lexington Ave, closer to Park Ave.</p>
       </div> <!-- .row-fluid -->
 
@@ -71,18 +79,6 @@
   <script src="../js/plugins.js"></script>
   <script src="../js/main.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
-  <script>
-    function initialize() {
-      var map_canvas = document.getElementById('map_canvas');
-      var map_options = {
-        center: new google.maps.LatLng(40.7599633, -73.9711179),
-        zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
-      }
-      var map = new google.maps.Map(map_canvas, map_options)
-    }
-    google.maps.event.addDomListener(window, 'load', initialize);
-  </script>
   <!-- Google Analytics -->
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
