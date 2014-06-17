@@ -2,514 +2,537 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "17018",
 "files": {
-	"\/cgi-bin\/DELETEME.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/cgi-bin\/DELETEME.md",
-		"outputAbbreviatedPath": "\/cgi-bin\/DELETEME.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/data\/DELETEME.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/data\/DELETEME.md",
-		"outputAbbreviatedPath": "\/data\/DELETEME.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/html\/404.html": {
+	"\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/404.html",
+		"inputAbbreviatedPath": "\/404.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/apple-touch-icon-precomposed.png": {
+	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1226,
-		"inputAbbreviatedPath": "\/html\/apple-touch-icon-precomposed.png",
-		"outputAbbreviatedPath": "\/html\/apple-touch-icon-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/css\/bootstrap-theme.css": {
+	"\/css\/bootstrap-theme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/css\/bootstrap-theme.css",
+		"inputAbbreviatedPath": "\/css\/bootstrap-theme.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/htdocs\/about.html": {
+	"\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/htdocs\/about.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/htdocs\/about.html",
+		"inputAbbreviatedPath": "\/htdocs\/about.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/htdocs\/main.html": {
+	"\/htdocs\/google-map.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/htdocs\/main.html",
+		"inputAbbreviatedPath": "\/htdocs\/google-map.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/img\/office-01-1000x800.jpg": {
+	"\/htdocs\/main.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/htdocs\/main.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/office-01-1000x800.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 138009,
-		"inputAbbreviatedPath": "\/html\/img\/office-01-1000x800.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/office-01-1000x800.jpg",
+		"inputAbbreviatedPath": "\/img\/office-01-1000x800.jpg",
+		"outputAbbreviatedPath": "\/img\/office-01-1000x800.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/office-01.jpg": {
+	"\/img\/office-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 64671,
-		"inputAbbreviatedPath": "\/html\/img\/office-01.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/office-01.jpg",
+		"inputAbbreviatedPath": "\/img\/office-01.jpg",
+		"outputAbbreviatedPath": "\/img\/office-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/office-02-531x800.jpg": {
+	"\/img\/office-02-531x800.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 81177,
-		"inputAbbreviatedPath": "\/html\/img\/office-02-531x800.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/office-02-531x800.jpg",
+		"inputAbbreviatedPath": "\/img\/office-02-531x800.jpg",
+		"outputAbbreviatedPath": "\/img\/office-02-531x800.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/office-02.jpg": {
+	"\/img\/office-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 48146,
-		"inputAbbreviatedPath": "\/html\/img\/office-02.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/office-02.jpg",
+		"inputAbbreviatedPath": "\/img\/office-02.jpg",
+		"outputAbbreviatedPath": "\/img\/office-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/office-03.jpg": {
+	"\/img\/office-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 57401,
-		"inputAbbreviatedPath": "\/html\/img\/office-03.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/office-03.jpg",
+		"inputAbbreviatedPath": "\/img\/office-03.jpg",
+		"outputAbbreviatedPath": "\/img\/office-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/wsz-01-2259x2000.jpg": {
+	"\/img\/wsz-01-2259x2000.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 853999,
-		"inputAbbreviatedPath": "\/html\/img\/wsz-01-2259x2000.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/wsz-01-2259x2000.jpg",
+		"inputAbbreviatedPath": "\/img\/wsz-01-2259x2000.jpg",
+		"outputAbbreviatedPath": "\/img\/wsz-01-2259x2000.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/img\/wsz-01.jpg": {
+	"\/img\/wsz-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 99738,
-		"inputAbbreviatedPath": "\/html\/img\/wsz-01.jpg",
-		"outputAbbreviatedPath": "\/html\/img\/wsz-01.jpg",
+		"inputAbbreviatedPath": "\/img\/wsz-01.jpg",
+		"outputAbbreviatedPath": "\/img\/wsz-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/html\/js\/bootstrap\/affix.js": {
-		"fileType": 64,
+	"\/img\/wszmdlogo.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/affix.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/affix-ck.js",
+		"initialSize": 5814,
+		"inputAbbreviatedPath": "\/img\/wszmdlogo.png",
+		"outputAbbreviatedPath": "\/img\/wszmdlogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/html\/js\/bootstrap\/alert.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/alert.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/alert-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/button.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/button.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/button-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/carousel.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/carousel.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/carousel-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/collapse.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/collapse.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/collapse-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/dropdown.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/dropdown.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/dropdown-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/modal.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/modal.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/modal-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/popover.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/popover.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/popover-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/scrollspy.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/scrollspy.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/scrollspy-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/tab.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tab.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/tab-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/html\/js\/bootstrap\/tests\/index.html": {
+	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/index.html",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/affix.js": {
+	"\/js\/bootstrap\/affix.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/affix.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/affix-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/affix.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/affix-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/alert.js": {
+	"\/js\/bootstrap\/alert.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/alert.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/alert-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/alert.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/alert-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/button.js": {
+	"\/js\/bootstrap\/button.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/button.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/button-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/button.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/button-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/carousel.js": {
+	"\/js\/bootstrap\/carousel.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/carousel.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/carousel-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/carousel.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/carousel-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/collapse.js": {
+	"\/js\/bootstrap\/collapse.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/collapse.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/collapse-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/collapse.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/collapse-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/dropdown.js": {
+	"\/js\/bootstrap\/dropdown.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/dropdown.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/dropdown-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/dropdown.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/dropdown-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/modal.js": {
+	"\/js\/bootstrap\/modal.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/modal.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/modal-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/modal.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/modal-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/phantom.js": {
+	"\/js\/bootstrap\/popover.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/phantom.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/phantom-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/popover.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/popover-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/popover.js": {
+	"\/js\/bootstrap\/scrollspy.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/popover.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/popover-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/scrollspy.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/scrollspy-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/scrollspy.js": {
+	"\/js\/bootstrap\/tab.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/scrollspy.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/scrollspy-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tab.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/tab-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/tab.js": {
+	"\/js\/bootstrap\/tests\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/bootstrap\/tests\/unit\/affix.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/tab.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/tab-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/affix.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/affix-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/unit\/tooltip.js": {
+	"\/js\/bootstrap\/tests\/unit\/alert.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/tooltip.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/unit\/min\/tooltip-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/alert.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/alert-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/vendor\/jquery.js": {
+	"\/js\/bootstrap\/tests\/unit\/button.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/vendor\/jquery.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/vendor\/min\/jquery-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/button.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/button-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tests\/vendor\/qunit.css": {
+	"\/js\/bootstrap\/tests\/unit\/carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/carousel.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/carousel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/collapse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/collapse.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/collapse-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/dropdown.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/dropdown-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/modal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/modal.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/modal-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/phantom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/phantom.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/phantom-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/popover.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/popover.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/popover-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/scrollspy.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/scrollspy.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/scrollspy-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/tab.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/tab-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/unit\/tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/tooltip.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/unit\/min\/tooltip-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/vendor\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/vendor\/jquery.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/vendor\/min\/jquery-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap\/tests\/vendor\/qunit.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/vendor\/qunit.css",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/vendor\/qunit.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/html\/js\/bootstrap\/tests\/vendor\/qunit.js": {
+	"\/js\/bootstrap\/tests\/vendor\/qunit.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/vendor\/qunit.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/tests\/vendor\/min\/qunit-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tests\/vendor\/qunit.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/tests\/vendor\/min\/qunit-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/tooltip.js": {
+	"\/js\/bootstrap\/tooltip.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/tooltip.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/tooltip-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/tooltip.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/tooltip-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/bootstrap\/transition.js": {
+	"\/js\/bootstrap\/transition.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/bootstrap\/transition.js",
-		"outputAbbreviatedPath": "\/html\/js\/bootstrap\/min\/transition-ck.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap\/transition.js",
+		"outputAbbreviatedPath": "\/js\/bootstrap\/min\/transition-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/main.js": {
+	"\/js\/main.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/main.js",
-		"outputAbbreviatedPath": "\/html\/js\/min\/main-ck.js",
+		"inputAbbreviatedPath": "\/js\/main.js",
+		"outputAbbreviatedPath": "\/js\/min\/main-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/plugins.js": {
+	"\/js\/plugins.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/html\/js\/min\/plugins-ck.js",
+		"inputAbbreviatedPath": "\/js\/plugins.js",
+		"outputAbbreviatedPath": "\/js\/min\/plugins-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/vendor\/bootstrap.js": {
+	"\/js\/vendor\/bootstrap.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/vendor\/bootstrap.js",
-		"outputAbbreviatedPath": "\/html\/js\/vendor\/min\/bootstrap-ck.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/bootstrap-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/vendor\/jquery-1.11.0.js": {
+	"\/js\/vendor\/jquery-1.11.0.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/vendor\/jquery-1.11.0.js",
-		"outputAbbreviatedPath": "\/html\/js\/vendor\/min\/jquery-1.11.0-ck.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.11.0.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/jquery-1.11.0-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js": {
+	"\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js",
-		"outputAbbreviatedPath": "\/html\/js\/vendor\/min\/modernizr-2.6.2-respond-1.1.0.min-ck.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/modernizr-2.6.2-respond-1.1.0.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/html\/less\/alerts.less": {
+	"\/less\/alerts.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -517,8 +540,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/alerts.less",
-		"outputAbbreviatedPath": "\/html\/css\/alerts.css",
+		"inputAbbreviatedPath": "\/less\/alerts.less",
+		"outputAbbreviatedPath": "\/css\/alerts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -529,7 +552,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/badges.less": {
+	"\/less\/badges.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -537,8 +560,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/badges.less",
-		"outputAbbreviatedPath": "\/html\/css\/badges.css",
+		"inputAbbreviatedPath": "\/less\/badges.less",
+		"outputAbbreviatedPath": "\/css\/badges.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -549,7 +572,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/bootstrap.less": {
+	"\/less\/bootstrap.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -557,8 +580,8 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/bootstrap.less",
-		"outputAbbreviatedPath": "\/html\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/less\/bootstrap.less",
+		"outputAbbreviatedPath": "\/css\/bootstrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -569,7 +592,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/breadcrumbs.less": {
+	"\/less\/breadcrumbs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -577,8 +600,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/breadcrumbs.less",
-		"outputAbbreviatedPath": "\/html\/css\/breadcrumbs.css",
+		"inputAbbreviatedPath": "\/less\/breadcrumbs.less",
+		"outputAbbreviatedPath": "\/css\/breadcrumbs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -589,7 +612,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/button-groups.less": {
+	"\/less\/button-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -597,8 +620,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/button-groups.less",
-		"outputAbbreviatedPath": "\/html\/css\/button-groups.css",
+		"inputAbbreviatedPath": "\/less\/button-groups.less",
+		"outputAbbreviatedPath": "\/css\/button-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -609,7 +632,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/buttons.less": {
+	"\/less\/buttons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -617,8 +640,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/buttons.less",
-		"outputAbbreviatedPath": "\/html\/css\/buttons.css",
+		"inputAbbreviatedPath": "\/less\/buttons.less",
+		"outputAbbreviatedPath": "\/css\/buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -629,7 +652,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/carousel.less": {
+	"\/less\/carousel.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -637,8 +660,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/carousel.less",
-		"outputAbbreviatedPath": "\/html\/css\/carousel.css",
+		"inputAbbreviatedPath": "\/less\/carousel.less",
+		"outputAbbreviatedPath": "\/css\/carousel.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -649,7 +672,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/close.less": {
+	"\/less\/close.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -657,8 +680,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/close.less",
-		"outputAbbreviatedPath": "\/html\/css\/close.css",
+		"inputAbbreviatedPath": "\/less\/close.less",
+		"outputAbbreviatedPath": "\/css\/close.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -669,7 +692,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/code.less": {
+	"\/less\/code.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -677,8 +700,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/code.less",
-		"outputAbbreviatedPath": "\/html\/css\/code.css",
+		"inputAbbreviatedPath": "\/less\/code.less",
+		"outputAbbreviatedPath": "\/css\/code.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -689,7 +712,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/component-animations.less": {
+	"\/less\/component-animations.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -697,8 +720,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/component-animations.less",
-		"outputAbbreviatedPath": "\/html\/css\/component-animations.css",
+		"inputAbbreviatedPath": "\/less\/component-animations.less",
+		"outputAbbreviatedPath": "\/css\/component-animations.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -709,7 +732,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/dropdowns.less": {
+	"\/less\/dropdowns.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -717,8 +740,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/dropdowns.less",
-		"outputAbbreviatedPath": "\/html\/css\/dropdowns.css",
+		"inputAbbreviatedPath": "\/less\/dropdowns.less",
+		"outputAbbreviatedPath": "\/css\/dropdowns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -729,7 +752,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/forms.less": {
+	"\/less\/forms.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -737,8 +760,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/forms.less",
-		"outputAbbreviatedPath": "\/html\/css\/forms.css",
+		"inputAbbreviatedPath": "\/less\/forms.less",
+		"outputAbbreviatedPath": "\/css\/forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -749,7 +772,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/glyphicons.less": {
+	"\/less\/glyphicons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -757,8 +780,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/glyphicons.less",
-		"outputAbbreviatedPath": "\/html\/css\/glyphicons.css",
+		"inputAbbreviatedPath": "\/less\/glyphicons.less",
+		"outputAbbreviatedPath": "\/css\/glyphicons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -769,7 +792,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/grid.less": {
+	"\/less\/grid.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -777,8 +800,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/grid.less",
-		"outputAbbreviatedPath": "\/html\/css\/grid.css",
+		"inputAbbreviatedPath": "\/less\/grid.less",
+		"outputAbbreviatedPath": "\/css\/grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -789,7 +812,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/input-groups.less": {
+	"\/less\/input-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -797,8 +820,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/input-groups.less",
-		"outputAbbreviatedPath": "\/html\/css\/input-groups.css",
+		"inputAbbreviatedPath": "\/less\/input-groups.less",
+		"outputAbbreviatedPath": "\/css\/input-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -809,7 +832,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/jumbotron.less": {
+	"\/less\/jumbotron.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -817,8 +840,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/jumbotron.less",
-		"outputAbbreviatedPath": "\/html\/css\/jumbotron.css",
+		"inputAbbreviatedPath": "\/less\/jumbotron.less",
+		"outputAbbreviatedPath": "\/css\/jumbotron.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -829,7 +852,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/labels.less": {
+	"\/less\/labels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -837,8 +860,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/labels.less",
-		"outputAbbreviatedPath": "\/html\/css\/labels.css",
+		"inputAbbreviatedPath": "\/less\/labels.less",
+		"outputAbbreviatedPath": "\/css\/labels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -849,7 +872,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/list-group.less": {
+	"\/less\/list-group.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -857,8 +880,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/list-group.less",
-		"outputAbbreviatedPath": "\/html\/css\/list-group.css",
+		"inputAbbreviatedPath": "\/less\/list-group.less",
+		"outputAbbreviatedPath": "\/css\/list-group.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -869,7 +892,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/media.less": {
+	"\/less\/media.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -877,8 +900,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/media.less",
-		"outputAbbreviatedPath": "\/html\/css\/media.css",
+		"inputAbbreviatedPath": "\/less\/media.less",
+		"outputAbbreviatedPath": "\/css\/media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -889,7 +912,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/mixins.less": {
+	"\/less\/mixins.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -897,8 +920,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/mixins.less",
-		"outputAbbreviatedPath": "\/html\/css\/mixins.css",
+		"inputAbbreviatedPath": "\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/css\/mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -909,7 +932,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/modals.less": {
+	"\/less\/modals.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -917,8 +940,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/modals.less",
-		"outputAbbreviatedPath": "\/html\/css\/modals.css",
+		"inputAbbreviatedPath": "\/less\/modals.less",
+		"outputAbbreviatedPath": "\/css\/modals.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -929,7 +952,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/navbar.less": {
+	"\/less\/navbar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -937,8 +960,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/navbar.less",
-		"outputAbbreviatedPath": "\/html\/css\/navbar.css",
+		"inputAbbreviatedPath": "\/less\/navbar.less",
+		"outputAbbreviatedPath": "\/css\/navbar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -949,7 +972,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/navs.less": {
+	"\/less\/navs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -957,8 +980,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/navs.less",
-		"outputAbbreviatedPath": "\/html\/css\/navs.css",
+		"inputAbbreviatedPath": "\/less\/navs.less",
+		"outputAbbreviatedPath": "\/css\/navs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -969,7 +992,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/normalize.less": {
+	"\/less\/normalize.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -977,8 +1000,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/normalize.less",
-		"outputAbbreviatedPath": "\/html\/css\/normalize.css",
+		"inputAbbreviatedPath": "\/less\/normalize.less",
+		"outputAbbreviatedPath": "\/css\/normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -989,7 +1012,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/pager.less": {
+	"\/less\/pager.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -997,8 +1020,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/pager.less",
-		"outputAbbreviatedPath": "\/html\/css\/pager.css",
+		"inputAbbreviatedPath": "\/less\/pager.less",
+		"outputAbbreviatedPath": "\/css\/pager.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1009,7 +1032,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/pagination.less": {
+	"\/less\/pagination.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1017,8 +1040,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/pagination.less",
-		"outputAbbreviatedPath": "\/html\/css\/pagination.css",
+		"inputAbbreviatedPath": "\/less\/pagination.less",
+		"outputAbbreviatedPath": "\/css\/pagination.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1029,7 +1052,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/panels.less": {
+	"\/less\/panels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1037,8 +1060,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/panels.less",
-		"outputAbbreviatedPath": "\/html\/css\/panels.css",
+		"inputAbbreviatedPath": "\/less\/panels.less",
+		"outputAbbreviatedPath": "\/css\/panels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1049,7 +1072,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/popovers.less": {
+	"\/less\/popovers.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1057,8 +1080,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/popovers.less",
-		"outputAbbreviatedPath": "\/html\/css\/popovers.css",
+		"inputAbbreviatedPath": "\/less\/popovers.less",
+		"outputAbbreviatedPath": "\/css\/popovers.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1069,7 +1092,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/print.less": {
+	"\/less\/print.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1077,8 +1100,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/print.less",
-		"outputAbbreviatedPath": "\/html\/css\/print.css",
+		"inputAbbreviatedPath": "\/less\/print.less",
+		"outputAbbreviatedPath": "\/css\/print.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1089,7 +1112,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/progress-bars.less": {
+	"\/less\/progress-bars.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1097,8 +1120,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/progress-bars.less",
-		"outputAbbreviatedPath": "\/html\/css\/progress-bars.css",
+		"inputAbbreviatedPath": "\/less\/progress-bars.less",
+		"outputAbbreviatedPath": "\/css\/progress-bars.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1109,7 +1132,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/responsive-utilities.less": {
+	"\/less\/responsive-utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1117,8 +1140,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/responsive-utilities.less",
-		"outputAbbreviatedPath": "\/html\/css\/responsive-utilities.css",
+		"inputAbbreviatedPath": "\/less\/responsive-utilities.less",
+		"outputAbbreviatedPath": "\/css\/responsive-utilities.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1129,7 +1152,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/scaffolding.less": {
+	"\/less\/scaffolding.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1137,8 +1160,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/scaffolding.less",
-		"outputAbbreviatedPath": "\/html\/css\/scaffolding.css",
+		"inputAbbreviatedPath": "\/less\/scaffolding.less",
+		"outputAbbreviatedPath": "\/css\/scaffolding.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1149,7 +1172,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/tables.less": {
+	"\/less\/tables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1157,8 +1180,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/tables.less",
-		"outputAbbreviatedPath": "\/html\/css\/tables.css",
+		"inputAbbreviatedPath": "\/less\/tables.less",
+		"outputAbbreviatedPath": "\/css\/tables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1169,16 +1192,16 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/thumbnails.less": {
+	"\/less\/theme.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/thumbnails.less",
-		"outputAbbreviatedPath": "\/html\/css\/thumbnails.css",
+		"inputAbbreviatedPath": "\/less\/theme.less",
+		"outputAbbreviatedPath": "\/css\/theme.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1189,7 +1212,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/tooltip.less": {
+	"\/less\/thumbnails.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1197,8 +1220,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/tooltip.less",
-		"outputAbbreviatedPath": "\/html\/css\/tooltip.css",
+		"inputAbbreviatedPath": "\/less\/thumbnails.less",
+		"outputAbbreviatedPath": "\/css\/thumbnails.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1209,7 +1232,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/type.less": {
+	"\/less\/tooltip.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1217,8 +1240,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/type.less",
-		"outputAbbreviatedPath": "\/html\/css\/type.css",
+		"inputAbbreviatedPath": "\/less\/tooltip.less",
+		"outputAbbreviatedPath": "\/css\/tooltip.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1229,7 +1252,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/utilities.less": {
+	"\/less\/type.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1237,8 +1260,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/utilities.less",
-		"outputAbbreviatedPath": "\/html\/css\/utilities.css",
+		"inputAbbreviatedPath": "\/less\/type.less",
+		"outputAbbreviatedPath": "\/css\/type.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1249,7 +1272,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/html\/less\/wells.less": {
+	"\/less\/utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -1257,8 +1280,48 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/html\/less\/wells.less",
-		"outputAbbreviatedPath": "\/html\/css\/wells.css",
+		"inputAbbreviatedPath": "\/less\/utilities.less",
+		"outputAbbreviatedPath": "\/css\/utilities.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/less\/variables.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/variables.less",
+		"outputAbbreviatedPath": "\/css\/variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/less\/wells.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/wells.less",
+		"outputAbbreviatedPath": "\/css\/wells.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1277,9 +1340,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "wziecheckmd",
+	"displayValue": "html",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "pencil_gray"
+	"iconImageName": "harddrive_brown"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
