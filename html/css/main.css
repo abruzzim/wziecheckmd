@@ -1,9 +1,6 @@
 body {
-  background: #741C1C;
-}
-.container > .row-fluid > p,
-.container > .row-fluid > ul > li {
   color: #cccccc;
+  background: #741C1C;
 }
 .container > .row-fluid > p > a,
 .container > .row-fluid > ul > li > a {
@@ -12,18 +9,8 @@ body {
 .container > .row-fluid > img {
   padding-bottom: 20px;
 }
-#map_title > p {
-  color: #cccccc;
-}
 #map_canvas {
   padding-bottom: 20px;
-}
-#map_canvas > small > a {
-  color: #cccccc;
-}
-dt > p,
-dd > p {
-  color: #cccccc;
 }
 .mtabus {
   color: #2850AD;
