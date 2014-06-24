@@ -33,3 +33,11 @@ body {
   color: #fff;
   background-color: rgb(185, 51, 173);
 }
+.jumbotron > h2,
+.jumbotron > h3,
+.jumbotron > p,
+.jumbotron > address > p,
+.jumbotron > address > abbr,
+.jumbotron > address {
+  color: #3d3165;
+}
