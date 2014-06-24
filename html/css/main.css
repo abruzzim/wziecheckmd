@@ -25,3 +25,24 @@ dt > p,
 dd > p {
   color: #cccccc;
 }
+.mtabus {
+  color: #2850AD;
+  font-weight: bold;
+}
+.m31 {
+  color: #fff;
+  background-color: rgb(185, 51, 173);
+}
+.m57 {
+  color: #fff;
+  background-color: rgb(0, 174, 239);
+}
+.m101,
+.m102 {
+  color: #fff;
+  background-color: rgb(250, 166, 26);
+}
+.m103 {
+  color: #fff;
+  background-color: rgb(185, 51, 173);
+}
